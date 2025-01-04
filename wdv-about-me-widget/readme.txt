@@ -3,7 +3,7 @@ Contributors: vrpr
 Donate link: https://wdvillage.com/product/wdv-about-me-widget/
 Tags: about, about me, about us, widget, contact, social, social icons, contacts, social networks, social media, social profiles, social links, about widget, image upload, contacts
 Requires at least: 5.0.0
-Tested up to: 6.4
+Tested up to: 6.7
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -107,6 +107,7 @@ For more information you can visit the home of the [WDV About Me Widget](http://
 = 1.2.6 =
 = 1.2.7 =
 = 1.2.8 =
+= 1.2.9 =
 
 == Upgrade Notice ==
 = 1.0 =
@@ -126,3 +127,4 @@ For more information you can visit the home of the [WDV About Me Widget](http://
 = 1.2.6 = changes in widget 
 = 1.2.7 = new version WP 6.2 
 = 1.2.8 = new version WP 6.4 
+= 1.2.9 = new version WP 6.7 
